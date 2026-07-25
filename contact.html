@@ -1,17 +1,199 @@
-<h2>Contact</h2>
+<!DOCTYPE html>
+<html lang="en">
 
-<p>
-Rachel Marriott<br>
-Ph.D. Student<br>
-Department of Political Science<br>
-Florida State University
-</p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Rachel Marriott</title>
 
-<p>
-<strong>Email:</strong> rsmarriott@fsu.edu
-</p>
+    <style>
 
-</div>
+        body {
+            font-family: "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            color: #333;
+            background-color: white;
+            line-height: 1.7;
+        }
+
+        header {
+            padding: 40px 10%;
+            border-bottom: 1px solid #e5e5e5;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 42px;
+            font-weight: 500;
+            color: #222;
+        }
+
+        header p {
+            margin-top: 6px;
+            font-size: 16px;
+            color: #666;
+        }
+
+        nav {
+            padding: 15px 10%;
+            border-bottom: 1px solid #e5e5e5;
+            background-color: white;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #444;
+            margin-right: 30px;
+            font-size: 15px;
+            transition: color 0.2s ease;
+        }
+
+        nav a:hover {
+            color: #222;
+        }
+
+        nav a.active {
+            color: #222;
+            font-weight: 500;
+        }
+
+        .banner {
+            height: 160px;
+            background-image: url('banner.avif');
+            background-size: cover;
+            background-position: center center;
+        }
+
+        .content {
+            max-width: 850px;
+            margin: 60px auto;
+            padding: 0 30px;
+            min-height: 300px;
+        }
+
+        h2 {
+            font-size: 26px;
+            font-weight: 500;
+            margin-top: 0;
+            margin-bottom: 25px;
+            color: #222;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+        .contact-details {
+            color: #555;
+            margin-bottom: 30px;
+        }
+
+        .contact-details p {
+            margin: 0 0 20px 0;
+        }
+
+        .contact-details strong {
+            color: #333;
+            font-weight: 500;
+        }
+
+        .contact-details a {
+            color: #444;
+            text-decoration: none;
+            border-bottom: 1px solid #bbb;
+        }
+
+        .contact-details a:hover {
+            color: #000;
+            border-bottom-color: #000;
+        }
+
+        footer {
+            margin-top: 80px;
+            padding: 30px;
+            border-top: 1px solid #e5e5e5;
+            text-align: center;
+            color: #777;
+            font-size: 14px;
+        }
+
+        @media (max-width: 700px) {
+
+            header {
+                padding: 30px 7%;
+            }
+
+            header h1 {
+                font-size: 34px;
+            }
+
+            nav {
+                padding: 14px 7%;
+            }
+
+            nav a {
+                display: inline-block;
+                margin-right: 18px;
+                margin-bottom: 6px;
+            }
+
+            .banner {
+                height: 120px;
+            }
+
+            .content {
+                margin: 40px auto;
+                padding: 0 22px;
+            }
+
+        }
+
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Rachel Marriott</h1>
+    <p>Ph.D. Student | Political Science | Florida State University</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="research.html">Research</a>
+    <a href="cv.html">CV</a>
+    <a href="teaching.html">Teaching</a>
+    <a href="contact.html" class="active">Contact</a>
+</nav>
+
+<div class="banner"></div>
+
+<main class="content">
+
+    <h2>Contact</h2>
+
+    <div class="contact-details">
+
+        <p>
+            <strong>Rachel Marriott</strong><br>
+            Ph.D. Student<br>
+            Department of Political Science<br>
+            Florida State University
+        </p>
+
+        <p>
+            <strong>Email:</strong>
+            <a href="mailto:rsmarriott@fsu.edu">rsmarriott@fsu.edu</a>
+        </p>
+
+    </div>
+
+</main>
+
+<footer>
+    Rachel Marriott, Florida State University
+</footer>
 
 </body>
+
 </html>
