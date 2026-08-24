@@ -75,13 +75,18 @@
             width: 220px;
             height: 275px;
             object-fit: cover;
-            object-position: center top;
+            object-position: center;
             border-radius: 6px;
             flex-shrink: 0;
         }
 
         .bio {
             flex: 1;
+        }
+
+        .bio p {
+            margin-top: 0;
+            font-size: 18px;
         }
 
         h2 {
@@ -94,10 +99,6 @@
 
         p {
             font-size: 18px;
-        }
-
-        .bio p {
-            margin-top: 0;
         }
 
         .interests {
@@ -114,6 +115,7 @@
         }
 
         @media (max-width: 700px) {
+
             .intro {
                 flex-direction: column;
             }
@@ -148,7 +150,7 @@
 
     <div class="intro">
 
-        <img src="rachel-marriott.jpeg"
+        <img src="Rachel Marriott.jpeg"
              alt="Rachel Marriott"
              class="profile-photo">
 
