@@ -60,9 +60,28 @@
         }
 
         .content {
-            max-width: 850px;
+            max-width: 950px;
             margin: 60px auto;
             padding: 0 30px;
+        }
+
+        .intro {
+            display: flex;
+            align-items: flex-start;
+            gap: 40px;
+        }
+
+        .profile-photo {
+            width: 220px;
+            height: 275px;
+            object-fit: cover;
+            object-position: center top;
+            border-radius: 6px;
+            flex-shrink: 0;
+        }
+
+        .bio {
+            flex: 1;
         }
 
         h2 {
@@ -77,6 +96,10 @@
             font-size: 18px;
         }
 
+        .bio p {
+            margin-top: 0;
+        }
+
         .interests {
             color: #555;
         }
@@ -88,6 +111,17 @@
             text-align: center;
             color: #777;
             font-size: 14px;
+        }
+
+        @media (max-width: 700px) {
+            .intro {
+                flex-direction: column;
+            }
+
+            .profile-photo {
+                width: 180px;
+                height: 225px;
+            }
         }
 
     </style>
@@ -112,9 +146,19 @@
 
 <div class="content">
 
-    <p>
-       I am a Ph.D. student in Political Science at Florida State University. My research focuses on comparative politics and international security, with interests in political violence, political behavior, democratic institutions, peacebuilding, and gender and conflict. I am particularly interested in understanding how violence transforms political institutions, shapes public attitudes, and influences long-term political development.
-    </p>
+    <div class="intro">
+
+        <img src="rachel-marriott.jpg"
+             alt="Rachel Marriott"
+             class="profile-photo">
+
+        <div class="bio">
+            <p>
+                Hello! I am a Ph.D. student in Political Science at Florida State University. My research focuses on comparative politics and international security, with interests in political violence, political behavior, democratic institutions, peacebuilding, and gender and conflict. I am particularly interested in understanding how violence transforms political institutions, shapes public attitudes, and influences long-term political development.
+            </p>
+        </div>
+
+    </div>
 
     <h2>Research Interests</h2>
 
@@ -129,5 +173,4 @@
 </footer>
 
 </body>
-
 </html>
