@@ -1,0 +1,20 @@
+---
+title: "Contact"
+---
+
+<div class="contact-details">
+
+**Rachel Marriott**\
+Ph.D. Student\
+Department of Political Science\
+Florida State University\
+113 Collegiate Loop\
+Tallahassee, FL 32306
+
+**Email:** [rsmarriott@fsu.edu](mailto:rsmarriott@fsu.edu)
+
+**ORCID:** [0009-0001-6405-3123](https://orcid.org/0009-0001-6405-3123)
+
+**LinkedIn:** [linkedin.com/in/rachel-marriott](https://www.linkedin.com/in/rachel-marriott)
+
+</div>

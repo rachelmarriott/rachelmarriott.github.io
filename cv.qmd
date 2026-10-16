@@ -1,0 +1,155 @@
+---
+title: "Curriculum Vitae"
+page-layout: full
+---
+
+<div class="cv-page">
+
+<div class="cv-header">
+
+[Download CV (PDF)](cv.pdf){.btn .btn-primary}
+
+</div>
+
+## Education
+
+**Florida State University**\
+Ph.D., Political Science, expected 2030
+
+**Florida State University**\
+M.S., Political Science, expected December 2026
+
+**Rochester Institute of Technology**\
+B.S., Political Science and French, *summa cum laude*, 2025
+
+---
+
+## Research Interests
+
+Political violence and conflict; gender and politics; wartime sexual violence; human rights; peace processes and post-conflict institutions; international security; political behavior.
+
+---
+
+## Academic Appointments
+
+**Florida State University**\
+Graduate Research and Teaching Assistant, Department of Political Science, 2025–Present
+
+---
+
+## Working Papers
+
+**“When Does Women’s Representation Matter? Rethinking Civil Society and Gender Provisions in Peace Agreements.”**
+
+**“From Atrocity to Agreement: Examining Wartime Sexual Violence in Peace Agreement Design.”**
+
+**“Government Actions, Social Hostility, and Anti-Religion Hate Crime: An Examination of Emboldenment in Anti-Religion Hate Crime Offending.”**\
+with Matthew Vanden Bosch
+
+---
+
+## Works in Progress
+
+**“Examining the Effectiveness of the Dictator’s Digital Toolkit: Misinformation and Censorship’s Impact on Social Media Users’ Trust in Government in Non-Democracies.”**\
+with Matthew Placek
+
+**“Women, Life, Freedom: The Iranian Women’s Social Movement.”**\
+with Houman Sadri
+
+**“Elite Cues Across Foreign Policy: A Topic Sampling Approach.”**\
+with Grady Anderson
+
+---
+
+## Selected Conference Presentations
+
+International Studies Association Annual Convention, Atlanta, GA, 2027 (accepted)
+
+Carolinas Conflict Consortium, Atlanta, GA, 2026
+
+Southern Political Science Association Annual Conference, Virtual, 2026
+
+Florida Political Science Association Annual Conference, Saint Leo, FL, 2026
+
+---
+
+## Grants, Fellowships, and Awards
+
+**Department of Political Science Travel Grant**, Florida State University, 2026
+
+**Congress of Graduate Students Conference Travel Grant**, Florida State University, 2026
+
+**Graduate Research Assistantship**, Florida State University, 2025
+
+---
+
+## Research Experience
+
+**Research Assistant, Florida State University**\
+Dotan Haim, 2026–Present
+
+---
+
+## Teaching Experience
+
+**Instructor of Record, Florida State University**
+
+INR 1002: Introduction to International Relations, Summer 2027 (scheduled)
+
+**Teaching Assistant, Florida State University**
+
+INR 3933: Insurgency, Civil War, and Terrorism, Spring 2026
+
+CPO 2002: Introduction to Comparative Politics, Fall 2025; Spring 2026
+
+PUP 3002: Introduction to Public Policy, Fall 2025
+
+---
+
+## Departmental Service and Mentoring
+
+**Secretary**, Political Science Graduate Student Association, Florida State University, 2026–Present
+
+**Research Mentor**, Undergraduate Research Opportunity Program, Florida State University, 2026–Present
+
+---
+
+## Professional Affiliations
+
+American Political Science Association\
+International Studies Association\
+Peace Science Society\
+International Society of Political Psychology\
+Empirical Studies of Gender Research Network\
+Midwest Political Science Association\
+Southern Political Science Association\
+Florida Political Science Association
+
+---
+
+## Methods and Software
+
+**Quantitative Methods:** Regression analysis, logistic regression, fixed effects models, panel data analysis, multiple imputation, and quantitative conflict analysis.
+
+**Software:** R, SPSS, LaTeX, Quarto, Microsoft Office Suite.
+
+---
+
+## Languages
+
+**English:** Native proficiency\
+**French:** Professional working proficiency\
+**Italian:** Elementary proficiency
+
+---
+
+## Full CV
+
+<iframe
+  src="cv.pdf"
+  width="100%"
+  height="1100px"
+  style="border: 1px solid #dddddd;">
+</iframe>
+
+</div>

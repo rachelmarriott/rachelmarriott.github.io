@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs        # GitHub Pages can serve a site straight from docs/.
+
+website:
+  title: "Rachel Marriott"
+  site-url: https://rachelmarriott.github.io
+  description: "Ph.D. student in Political Science at Florida State University studying political violence, gender and conflict, and peacebuilding."
+  image: headshot.jpeg    # Picture used in link previews.
+  open-graph: true        # Shows a card with name and photo when the site is shared.
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - research.qmd
+      - teaching.qmd
+      - text: CV
+        href: cv.qmd
+      - contact.qmd
+    right:
+      - icon: envelope
+        href: mailto:rsmarriott@fsu.edu
+        aria-label: Email
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rachel-marriott
+        aria-label: LinkedIn
+  page-footer:
+    center: "Rachel Marriott · Department of Political Science · Florida State University"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    title-block-banner: banner.jpg   # The FSU campus banner from the old site.
+    toc: false

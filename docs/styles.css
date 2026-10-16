@@ -1,0 +1,158 @@
+/* ---------- Base (carried over from the old site) ---------- */
+:root {
+  --fsu-garnet: #782F40;
+  --fsu-gold: #CEB888;
+}
+
+body {
+  line-height: 1.7;
+  color: #333;
+}
+
+h2 {
+  font-weight: 500;
+  color: #222;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+a {
+  color: var(--fsu-garnet);
+}
+
+hr {
+  margin: 2.5rem 0;
+  opacity: 0.15;
+}
+
+/* ---------- Banner (FSU campus image behind the page title) ---------- */
+.quarto-title-banner {
+  background-size: cover;
+  background-position: center center;
+  min-height: 160px;
+}
+
+.quarto-title-banner .quarto-title .title,
+.quarto-title-banner .subtitle {
+  color: #fff;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.55);
+}
+
+/* ---------- Buttons in FSU garnet ---------- */
+.btn-primary {
+  background-color: var(--fsu-garnet);
+  border-color: var(--fsu-garnet);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #5e2432;
+  border-color: #5e2432;
+}
+
+.btn-outline-primary {
+  color: var(--fsu-garnet);
+  border-color: var(--fsu-garnet);
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  background-color: var(--fsu-garnet);
+  border-color: var(--fsu-garnet);
+  color: #fff;
+}
+
+/* ---------- Home page hero ---------- */
+.hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 3rem;
+  margin-top: 1rem;
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.hero-text h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  color: #555;
+}
+
+.hero-text p {
+  font-size: 1.1rem;
+  margin-top: 1.25rem;
+}
+
+.hero-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.5rem;
+}
+
+.hero-image {
+  flex-shrink: 0;
+}
+
+.hero-image img {
+  width: 220px;
+  height: 275px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 6px;
+}
+
+.interests {
+  color: #555;
+  font-size: 1.1rem;
+}
+
+@media (max-width: 700px) {
+  .hero {
+    flex-direction: column-reverse;
+    gap: 1.5rem;
+  }
+
+  .hero-image img {
+    width: 180px;
+    height: 225px;
+  }
+}
+
+/* ---------- Research page ---------- */
+.research-page h3 {
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+.research-footer {
+  color: #666;
+  font-style: italic;
+}
+
+/* ---------- CV page ---------- */
+.cv-header {
+  margin-bottom: 1.5rem;
+}
+
+/* ---------- Contact page ---------- */
+.contact-details {
+  color: #555;
+  font-size: 1.1rem;
+}
+
+.contact-details strong {
+  color: #333;
+  font-weight: 500;
+}
+
+/* ---------- Navbar active link in garnet ---------- */
+.navbar .nav-link.active,
+.navbar .nav-link:hover {
+  color: var(--fsu-garnet) !important;
+}
