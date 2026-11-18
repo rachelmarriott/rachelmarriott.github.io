@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rachelmarriott.github.io/contact.html</loc>
-    <lastmod>2026-11-18T17:22:10.218Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rachelmarriott.github.io/teaching.html</loc>
-    <lastmod>2026-11-18T17:22:10.230Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rachelmarriott.github.io/cv.html</loc>
-    <lastmod>2026-11-18T17:26:15.570Z</lastmod>
+    <loc>https://rachelmarriott.github.io/index.html</loc>
+    <lastmod>2026-11-18T17:31:14.038Z</lastmod>
   </url>
   <url>
     <loc>https://rachelmarriott.github.io/research.html</loc>
-    <lastmod>2026-11-18T17:22:10.230Z</lastmod>
+    <lastmod>2026-11-18T17:29:36.654Z</lastmod>
   </url>
   <url>
-    <loc>https://rachelmarriott.github.io/index.html</loc>
-    <lastmod>2026-11-18T17:22:10.230Z</lastmod>
+    <loc>https://rachelmarriott.github.io/cv.html</loc>
+    <lastmod>2026-11-18T17:30:03.719Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rachelmarriott.github.io/teaching.html</loc>
+    <lastmod>2026-11-18T17:30:03.713Z</lastmod>
   </url>
 </urlset>

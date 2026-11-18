@@ -1,85 +1,59 @@
 ---
-title: "Rachel Marriott"
-page-layout: full
+pagetitle: "Rachel Marriott · Political Science, Florida State University"
+page-layout: article
 ---
 
-<div class="hero">
+::: {.hero}
 
-<div class="hero-text">
+::: {.hero-image}
+![](headshot.jpeg){fig-alt="Portrait of Rachel Marriott"}
+:::
 
-### Ph.D. Student in Political Science
-### Florida State University
+::: {.hero-text}
 
-I study political violence and its consequences for individuals, institutions, and post-conflict societies. My research lies at the intersection of comparative politics and international security, with particular interests in conflict-related sexual violence, political behavior, peacebuilding, and gender and conflict.
+<p class="hero-name" role="heading" aria-level="1">Rachel Marriott</p>
 
-<div class="hero-links">
+[Ph.D. Student, Department of Political Science<br>Florida State University]{.hero-role}
 
-[Research](research.qmd){.btn .btn-primary}
-[Curriculum Vitae](cv.qmd){.btn .btn-outline-primary}
+I study political violence and its consequences for individuals, institutions, and post-conflict societies. My research sits at the intersection of comparative politics and international security, with a focus on conflict-related sexual violence, women's participation in peace processes, and the design of post-conflict institutions.
+
+[CV](cv.qmd){.btn .btn-primary}
+[Research](research.qmd){.btn .btn-outline-primary}
 [Email](mailto:rsmarriott@fsu.edu){.btn .btn-outline-primary}
 [ORCID](https://orcid.org/0009-0001-6405-3123){.btn .btn-outline-primary}
-[LinkedIn](https://www.linkedin.com/in/rachel-marriott){.btn .btn-outline-primary}
 
-</div>
+:::
 
-</div>
-
-<div class="hero-image">
-
-![](headshot.jpeg){fig-alt="Rachel Marriott"}
-
-</div>
-
-</div>
-
----
+:::
 
 ## About
 
-I am a Ph.D. student in Political Science at Florida State University. My research examines how violence shapes political behavior, institutional responses, and post-conflict political development. I am particularly interested in understanding how violence transforms political institutions, shapes public attitudes, and influences long-term political development.
+My current work examines how wartime sexual violence shapes peace agreement design, when women's representation in peace negotiations translates into gender provisions, and how survivors navigate disclosure, reporting, and help-seeking after conflict-related sexual violence. I use quantitative methods and cross-national data, working primarily in R.
 
-My current work focuses on conflict-related sexual violence, survivor behavior, women's participation in peace processes, and the design of post-conflict institutions. More broadly, I am interested in political violence, comparative political behavior, peacebuilding, democratic institutions, and gender and conflict.
+I also collaborate on projects on authoritarian information control, elite cues in foreign policy opinion, and anti-religion hate crime.
 
-Before beginning my Ph.D. at FSU, I earned a B.S. in Political Science and French, *summa cum laude*, from the Rochester Institute of Technology (RIT), where I also competed as an NCAA women's soccer student-athlete.
+Before FSU, I earned a B.S. in Political Science and French, *summa cum laude*, from the Rochester Institute of Technology, where I also played NCAA women's soccer.
 
----
+## Research Areas
 
-## Research Interests
+::: {.chips}
+[Political Violence]{.chip}
+[Conflict-Related Sexual Violence]{.chip}
+[Women, Peace & Security]{.chip}
+[Peace Processes]{.chip}
+[Post-Conflict Institutions]{.chip}
+[International Security]{.chip}
+[Political Behavior]{.chip}
+:::
 
-<p class="interests">
-Comparative Politics · International Relations · Political Violence · International Security · Political Behavior · Women, Peace and Security · Peacebuilding
-</p>
+## Current Research
 
----
+::: {.mini-list}
+[When Does Women's Representation Matter? Rethinking Civil Society and Gender Provisions in Peace Agreements](research.qmd#representation)
 
-## Research
+[From Atrocity to Agreement: Examining Wartime Sexual Violence in Peace Agreement Design](research.qmd#atrocity)
 
-My research is organized around three broad themes:
+[Government Actions, Social Hostility, and Anti-Religion Hate Crime: An Examination of Emboldenment in Anti-Religion Hate Crime Offending](research.qmd#hatecrime) <span class="mini-meta">with Matthew Vanden Bosch</span>
+:::
 
-**Political Violence and Conflict.**\
-I study how exposure to violence affects individuals, communities, and political institutions, with particular attention to conflict-related sexual violence and post-conflict political behavior.
-
-**Gender and Peacebuilding.**\
-I examine women's participation in peace processes, gender provisions in peace agreements, and the ways conflict-related harms shape institutional design and post-conflict politics.
-
-**Political Behavior and Institutions.**\
-My broader research considers how institutions, social environments, and experiences of violence shape political attitudes, participation, and democratic development.
-
----
-
-## Current Projects
-
-**Survivor Behavior After Conflict-Related Sexual Violence**\
-This project examines how survivors make decisions about disclosure, reporting, and help-seeking following conflict-related sexual violence, with particular attention to stigma, trust, and institutional context.
-
-**From Atrocity to Agreement: Wartime Sexual Violence in Peace Agreement Design**\
-This project investigates whether higher levels of wartime sexual violence are associated with the inclusion of gender provisions in comprehensive peace agreements.
-
-**Women's Participation and Peace Agreement Design**\
-This research examines how women's formal participation in peace negotiations and women's civil society participation shape the inclusion of gender provisions in peace agreements.
-
----
-
-## Additional Information
-
-For more information about my research, publications, conference presentations, and teaching, please see my [Research](research.qmd) page or [Curriculum Vitae](cv.qmd).
+[All research →](research.qmd){.more-link}

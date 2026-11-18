@@ -1,31 +1,59 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rachel Marriott",
     "section": "",
-    "text": "Rachel Marriott\nPh.D. Student\nDepartment of Political Science\nFlorida State University\n113 Collegiate Loop\nTallahassee, FL 32306\nEmail: rsmarriott@fsu.edu\nORCID: 0009-0001-6405-3123\nLinkedIn: linkedin.com/in/rachel-marriott"
+    "text": "Rachel Marriott\n\nPh.D. Student, Department of Political ScienceFlorida State University\nI study political violence and its consequences for individuals, institutions, and post-conflict societies. My research sits at the intersection of comparative politics and international security, with a focus on conflict-related sexual violence, women’s participation in peace processes, and the design of post-conflict institutions.\nCV Research Email ORCID"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "INR 1002: Introduction to International Relations, Florida State University, Summer 2027 (scheduled)"
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Rachel Marriott",
+    "section": "About",
+    "text": "About\nMy current work examines how wartime sexual violence shapes peace agreement design, when women’s representation in peace negotiations translates into gender provisions, and how survivors navigate disclosure, reporting, and help-seeking after conflict-related sexual violence. I use quantitative methods and cross-national data, working primarily in R.\nI also collaborate on projects on authoritarian information control, elite cues in foreign policy opinion, and anti-religion hate crime.\nBefore FSU, I earned a B.S. in Political Science and French, summa cum laude, from the Rochester Institute of Technology, where I also played NCAA women’s soccer."
   },
   {
-    "objectID": "teaching.html#instructor-of-record",
-    "href": "teaching.html#instructor-of-record",
-    "title": "Teaching",
-    "section": "",
-    "text": "INR 1002: Introduction to International Relations, Florida State University, Summer 2027 (scheduled)"
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Rachel Marriott",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nPolitical Violence Conflict-Related Sexual Violence Women, Peace & Security Peace Processes Post-Conflict Institutions International Security Political Behavior"
   },
   {
-    "objectID": "teaching.html#teaching-assistant",
-    "href": "teaching.html#teaching-assistant",
-    "title": "Teaching",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\nINR 3933: Insurgency, Civil War, and Terrorism, Florida State University, Spring 2026\nCPO 2002: Introduction to Comparative Politics, Florida State University, Fall 2025; Spring 2026\nPUP 3002: Introduction to Public Policy, Florida State University, Fall 2025"
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Rachel Marriott",
+    "section": "Current Research",
+    "text": "Current Research\n\nWhen Does Women’s Representation Matter? Rethinking Civil Society and Gender Provisions in Peace Agreements\nFrom Atrocity to Agreement: Examining Wartime Sexual Violence in Peace Agreement Design\nGovernment Actions, Social Hostility, and Anti-Religion Hate Crime: An Examination of Emboldenment in Anti-Religion Hate Crime Offending with Matthew Vanden Bosch\n\nAll research →"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research lies at the intersection of comparative politics and international security. I study political violence, peace processes, political behavior, and the Women, Peace and Security agenda using quantitative methods and cross-national data. I am broadly interested in how violence shapes individual behavior, political institutions, and post-conflict political development."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nWorking Paper\n\nWhen Does Women’s Representation Matter? Rethinking Civil Society and Gender Provisions in Peace Agreements\n\n\nAbstract\n\nThis project examines the conditions under which women’s participation in peace negotiations translates into substantive gender provisions in peace agreements. Building on research emphasizing the importance of women’s formal authority in negotiations, I investigate whether broader women’s civil society participation strengthens the relationship between women’s representation at the negotiating table and gender-responsive peace agreement design. The project combines agreement-level data on women’s participation and gender provisions with cross-national measures of women’s civil society participation.\n\n\n\n\nWorking Paper\n\nFrom Atrocity to Agreement: Examining Wartime Sexual Violence in Peace Agreement Design\n\n\nAbstract\n\nThis project investigates whether wartime sexual violence is associated with the inclusion of gender provisions in comprehensive peace agreements. I theorize that widespread conflict-related sexual violence can increase the political and normative salience of gendered harms, creating domestic and international legitimacy pressures for negotiators to address these issues during peace processes. The project uses cross-national data on conflict-related sexual violence, peace agreements, conflict intensity, and political institutions.\n\n\n\n\nWorking Paper\n\nGovernment Actions, Social Hostility, and Anti-Religion Hate Crime: An Examination of Emboldenment in Anti-Religion Hate Crime Offending\nwith Matthew Vanden Bosch\n\n\nAbstract\n\nThis project investigates whether government actions and broader patterns of social hostility are associated with anti-religion hate crime. The study considers whether political and social environments can embolden discriminatory or violent behavior toward religious groups."
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Research",
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\nWork in Progress\n\nExamining the Effectiveness of the Dictator’s Digital Toolkit: Misinformation and Censorship’s Impact on Social Media Users’ Trust in Government in Non-Democracies\nwith Matthew Placek\n\n\nAbstract\n\nThis project examines the relationship between government control of social networking sites and political trust in authoritarian regimes. We investigate whether misinformation, censorship, and other restrictions on digital communication and information environments are associated with citizens’ trust in government across non-democratic political systems.\n\n\n\n\nWork in Progress\n\nWomen, Life, Freedom: The Iranian Women’s Social Movement\nwith Houman Sadri\n\n\nAbstract\n\nThis project examines the Women, Life, Freedom movement in Iran and its implications for gender, political mobilization, and contentious politics.\n\n\n\n\nWork in Progress\n\nElite Cues Across Foreign Policy: A Topic Sampling Approach\nwith Grady Anderson\n\n\nAbstract\n\nThis project examines how elite cues shape public opinion across different domains of foreign policy. Using a topic-sampling framework, the project considers whether the influence of political elites varies across foreign policy issues rather than assuming that cue-taking operates uniformly across issue areas."
+  },
+  {
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
+    "title": "Research",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\nInternational Studies Association Annual Convention, Atlanta, GA (accepted)2027\nSouthern Political Science Association Annual Meeting, St. Petersburg, FL (accepted)2027\nCarolinas Conflict Consortium, Atlanta, GA2026\nSouthern Political Science Association Annual Meeting, Virtual2026\nFlorida Political Science Association Annual Meeting, Saint Leo, FL2026"
   },
   {
     "objectID": "cv.html",
@@ -35,87 +63,31 @@
     "text": "Download CV (PDF) Last updated November 2026\n\n\n\n\n\n\nIf the CV does not display, open the PDF directly."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "My research lies at the intersection of comparative politics and international security, with a particular focus on political violence, peace and conflict processes, gender and conflict, and political behavior. I study political violence, peace processes, political behavior, and the Women, Peace and Security agenda using quantitative methods and cross-national data. Broadly, I am interested in how violence shapes individual behavior, political institutions, democratic governance, and post-conflict political development.\nMy current research examines conflict-related sexual violence, women’s political participation in peace processes, survivor-level responses to violence, and the institutional consequences of conflict. I also collaborate on projects related to authoritarian politics, foreign policy attitudes, political communication, and political violence.\n\n\n\n\n\n\nThis project examines the conditions under which women’s participation in peace negotiations translates into substantive gender provisions in peace agreements. Building on research emphasizing the importance of women’s formal authority in negotiations, I investigate whether broader women’s civil society participation strengthens the relationship between women’s representation at the negotiating table and gender-responsive peace agreement design.\nThe project combines agreement-level data on women’s participation and gender provisions with cross-national measures of women’s civil society participation.\nKeywords: gender and conflict · peace agreements · women’s representation · civil society · peacebuilding\n\n\n\n\nThis project investigates whether wartime sexual violence is associated with the inclusion of gender provisions in comprehensive peace agreements. I theorize that widespread conflict-related sexual violence can increase the political and normative salience of gendered harms, creating domestic and international legitimacy pressures for negotiators to address these issues during peace processes.\nThe project uses cross-national data on conflict-related sexual violence, peace agreements, conflict intensity, and political institutions.\nKeywords: wartime sexual violence · peace agreements · political violence · gender and conflict · post-conflict institutions\n\n\n\n\nWith Matthew Vanden Bosch\nThis project investigates whether government actions and broader patterns of social hostility are associated with anti-religion hate crime. The study considers whether political and social environments can embolden discriminatory or violent behavior toward religious groups.\nKeywords: political violence · hate crime · religion · social hostility · political behavior\n\n\n\n\n\n\n\nWith Matthew Placek\nThis project examines the relationship between government control of social networking sites and political trust in authoritarian regimes. We investigate whether misinformation, censorship, and other restrictions on digital communication and information environments are associated with citizens’ trust in government across non-democratic political systems.\nKeywords: authoritarianism · social media · political trust · political communication · comparative politics\n\n\n\n\nWith Houman Sadri\nThis project examines the Women, Life, Freedom movement in Iran and its implications for gender, political mobilization, and contentious politics.\nKeywords: social movements · gender · Iran · contentious politics · authoritarianism\n\n\n\n\nWith Grady Anderson\nThis project examines how elite cues shape public opinion across different domains of foreign policy. Using a topic-sampling framework, the project considers whether the influence of political elites varies across foreign policy issues rather than assuming that cue-taking operates uniformly across issue areas.\nKeywords: foreign policy · public opinion · elite cues · political behavior · international relations\n\n\n\n\n\n\nInternational Studies Association Annual Convention, Atlanta, Georgia, 2027 (accepted)\nSouthern Political Science Association Annual Conference, Saint Pete, FL, 2027 (accepted)\nCarolinas Conflict Consortium, Atlanta, Georgia, 2026\nSouthern Political Science Association Annual Conference, Virtual, 2026\nFlorida Political Science Association Annual Conference, Saint Leo, Florida, 2026\n\n\n\n\n\nMy research primarily uses quantitative methods, including regression analysis, logistic regression, fixed effects models, panel data analysis, multiple imputation, and quantitative conflict analysis. I primarily work in R and also use SPSS, LaTeX, and Quarto.\n\n\nFor additional information, please see my Curriculum Vitae."
+    "text": "Florida State University\n\nINR 1002: Introduction to International Relations (scheduled)Summer 2027"
   },
   {
-    "objectID": "research.html#research-agenda",
-    "href": "research.html#research-agenda",
-    "title": "Research",
+    "objectID": "teaching.html#instructor-of-record",
+    "href": "teaching.html#instructor-of-record",
+    "title": "Teaching",
     "section": "",
-    "text": "My research lies at the intersection of comparative politics and international security, with a particular focus on political violence, peace and conflict processes, gender and conflict, and political behavior. I study political violence, peace processes, political behavior, and the Women, Peace and Security agenda using quantitative methods and cross-national data. Broadly, I am interested in how violence shapes individual behavior, political institutions, democratic governance, and post-conflict political development.\nMy current research examines conflict-related sexual violence, women’s political participation in peace processes, survivor-level responses to violence, and the institutional consequences of conflict. I also collaborate on projects related to authoritarian politics, foreign policy attitudes, political communication, and political violence."
+    "text": "Florida State University\n\nINR 1002: Introduction to International Relations (scheduled)Summer 2027"
   },
   {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "",
-    "text": "This project examines the conditions under which women’s participation in peace negotiations translates into substantive gender provisions in peace agreements. Building on research emphasizing the importance of women’s formal authority in negotiations, I investigate whether broader women’s civil society participation strengthens the relationship between women’s representation at the negotiating table and gender-responsive peace agreement design.\nThe project combines agreement-level data on women’s participation and gender provisions with cross-national measures of women’s civil society participation.\nKeywords: gender and conflict · peace agreements · women’s representation · civil society · peacebuilding\n\n\n\n\nThis project investigates whether wartime sexual violence is associated with the inclusion of gender provisions in comprehensive peace agreements. I theorize that widespread conflict-related sexual violence can increase the political and normative salience of gendered harms, creating domestic and international legitimacy pressures for negotiators to address these issues during peace processes.\nThe project uses cross-national data on conflict-related sexual violence, peace agreements, conflict intensity, and political institutions.\nKeywords: wartime sexual violence · peace agreements · political violence · gender and conflict · post-conflict institutions\n\n\n\n\nWith Matthew Vanden Bosch\nThis project investigates whether government actions and broader patterns of social hostility are associated with anti-religion hate crime. The study considers whether political and social environments can embolden discriminatory or violent behavior toward religious groups.\nKeywords: political violence · hate crime · religion · social hostility · political behavior"
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\nFlorida State University\n\nINR 3933: Insurgency, Civil War, and TerrorismSpring 2026\nCPO 2002: Introduction to Comparative PoliticsFall 2025, Spring 2026\nPUP 3002: Introduction to Public PolicyFall 2025"
   },
   {
-    "objectID": "research.html#works-in-progress",
-    "href": "research.html#works-in-progress",
-    "title": "Research",
-    "section": "",
-    "text": "With Matthew Placek\nThis project examines the relationship between government control of social networking sites and political trust in authoritarian regimes. We investigate whether misinformation, censorship, and other restrictions on digital communication and information environments are associated with citizens’ trust in government across non-democratic political systems.\nKeywords: authoritarianism · social media · political trust · political communication · comparative politics\n\n\n\n\nWith Houman Sadri\nThis project examines the Women, Life, Freedom movement in Iran and its implications for gender, political mobilization, and contentious politics.\nKeywords: social movements · gender · Iran · contentious politics · authoritarianism\n\n\n\n\nWith Grady Anderson\nThis project examines how elite cues shape public opinion across different domains of foreign policy. Using a topic-sampling framework, the project considers whether the influence of political elites varies across foreign policy issues rather than assuming that cue-taking operates uniformly across issue areas.\nKeywords: foreign policy · public opinion · elite cues · political behavior · international relations"
-  },
-  {
-    "objectID": "research.html#selected-conference-presentations",
-    "href": "research.html#selected-conference-presentations",
-    "title": "Research",
-    "section": "",
-    "text": "International Studies Association Annual Convention, Atlanta, Georgia, 2027 (accepted)\nSouthern Political Science Association Annual Conference, Saint Pete, FL, 2027 (accepted)\nCarolinas Conflict Consortium, Atlanta, Georgia, 2026\nSouthern Political Science Association Annual Conference, Virtual, 2026\nFlorida Political Science Association Annual Conference, Saint Leo, Florida, 2026"
-  },
-  {
-    "objectID": "research.html#methods",
-    "href": "research.html#methods",
-    "title": "Research",
-    "section": "",
-    "text": "My research primarily uses quantitative methods, including regression analysis, logistic regression, fixed effects models, panel data analysis, multiple imputation, and quantitative conflict analysis. I primarily work in R and also use SPSS, LaTeX, and Quarto.\n\n\nFor additional information, please see my Curriculum Vitae."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Rachel Marriott",
-    "section": "",
-    "text": "I study political violence and its consequences for individuals, institutions, and post-conflict societies. My research lies at the intersection of comparative politics and international security, with particular interests in conflict-related sexual violence, political behavior, peacebuilding, and gender and conflict.\n\nResearch Curriculum Vitae Email ORCID LinkedIn"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Rachel Marriott",
-    "section": "About",
-    "text": "About\nI am a Ph.D. student in Political Science at Florida State University. My research examines how violence shapes political behavior, institutional responses, and post-conflict political development. I am particularly interested in understanding how violence transforms political institutions, shapes public attitudes, and influences long-term political development.\nMy current work focuses on conflict-related sexual violence, survivor behavior, women’s participation in peace processes, and the design of post-conflict institutions. More broadly, I am interested in political violence, comparative political behavior, peacebuilding, democratic institutions, and gender and conflict.\nBefore beginning my Ph.D. at FSU, I earned a B.S. in Political Science and French, summa cum laude, from the Rochester Institute of Technology (RIT), where I also competed as an NCAA women’s soccer student-athlete."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Rachel Marriott",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nComparative Politics · International Relations · Political Violence · International Security · Political Behavior · Women, Peace and Security · Peacebuilding"
-  },
-  {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
-    "title": "Rachel Marriott",
-    "section": "Research",
-    "text": "Research\nMy research is organized around three broad themes:\nPolitical Violence and Conflict.\nI study how exposure to violence affects individuals, communities, and political institutions, with particular attention to conflict-related sexual violence and post-conflict political behavior.\nGender and Peacebuilding.\nI examine women’s participation in peace processes, gender provisions in peace agreements, and the ways conflict-related harms shape institutional design and post-conflict politics.\nPolitical Behavior and Institutions.\nMy broader research considers how institutions, social environments, and experiences of violence shape political attitudes, participation, and democratic development."
-  },
-  {
-    "objectID": "index.html#current-projects",
-    "href": "index.html#current-projects",
-    "title": "Rachel Marriott",
-    "section": "Current Projects",
-    "text": "Current Projects\nSurvivor Behavior After Conflict-Related Sexual Violence\nThis project examines how survivors make decisions about disclosure, reporting, and help-seeking following conflict-related sexual violence, with particular attention to stigma, trust, and institutional context.\nFrom Atrocity to Agreement: Wartime Sexual Violence in Peace Agreement Design\nThis project investigates whether higher levels of wartime sexual violence are associated with the inclusion of gender provisions in comprehensive peace agreements.\nWomen’s Participation and Peace Agreement Design\nThis research examines how women’s formal participation in peace negotiations and women’s civil society participation shape the inclusion of gender provisions in peace agreements."
-  },
-  {
-    "objectID": "index.html#additional-information",
-    "href": "index.html#additional-information",
-    "title": "Rachel Marriott",
-    "section": "Additional Information",
-    "text": "Additional Information\nFor more information about my research, publications, conference presentations, and teaching, please see my Research page or Curriculum Vitae."
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching",
+    "section": "Mentoring",
+    "text": "Mentoring\n\nResearch Mentor, Undergraduate Research Opportunity Program, FSU2026–"
   }
 ]

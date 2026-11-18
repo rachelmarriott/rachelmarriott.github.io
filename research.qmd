@@ -1,102 +1,100 @@
 ---
 title: "Research"
-page-layout: full
+page-layout: article
 ---
 
-<div class="research-page">
-
-## Research Agenda
-
-My research lies at the intersection of comparative politics and international security, with a particular focus on political violence, peace and conflict processes, gender and conflict, and political behavior. I study political violence, peace processes, political behavior, and the Women, Peace and Security agenda using quantitative methods and cross-national data. Broadly, I am interested in how violence shapes individual behavior, political institutions, democratic governance, and post-conflict political development.
-
-My current research examines conflict-related sexual violence, women's political participation in peace processes, survivor-level responses to violence, and the institutional consequences of conflict. I also collaborate on projects related to authoritarian politics, foreign policy attitudes, political communication, and political violence.
-
----
+::: {.lead}
+My research lies at the intersection of comparative politics and international security. I study political violence, peace processes, political behavior, and the Women, Peace and Security agenda using quantitative methods and cross-national data. I am broadly interested in how violence shapes individual behavior, political institutions, and post-conflict political development.
+:::
 
 ## Working Papers
 
+::: {.paper #representation}
+[Working Paper]{.tag}
+
 ### When Does Women's Representation Matter? Rethinking Civil Society and Gender Provisions in Peace Agreements
 
-This project examines the conditions under which women's participation in peace negotiations translates into substantive gender provisions in peace agreements. Building on research emphasizing the importance of women's formal authority in negotiations, I investigate whether broader women's civil society participation strengthens the relationship between women's representation at the negotiating table and gender-responsive peace agreement design.
+<details>
+<summary>Abstract</summary>
+This project examines the conditions under which women's participation in peace negotiations translates into substantive gender provisions in peace agreements. Building on research emphasizing the importance of women's formal authority in negotiations, I investigate whether broader women's civil society participation strengthens the relationship between women's representation at the negotiating table and gender-responsive peace agreement design. The project combines agreement-level data on women's participation and gender provisions with cross-national measures of women's civil society participation.
+</details>
+:::
 
-The project combines agreement-level data on women's participation and gender provisions with cross-national measures of women's civil society participation.
-
-**Keywords:** gender and conflict · peace agreements · women's representation · civil society · peacebuilding
-
----
+::: {.paper #atrocity}
+[Working Paper]{.tag}
 
 ### From Atrocity to Agreement: Examining Wartime Sexual Violence in Peace Agreement Design
 
-This project investigates whether wartime sexual violence is associated with the inclusion of gender provisions in comprehensive peace agreements. I theorize that widespread conflict-related sexual violence can increase the political and normative salience of gendered harms, creating domestic and international legitimacy pressures for negotiators to address these issues during peace processes.
+<details>
+<summary>Abstract</summary>
+This project investigates whether wartime sexual violence is associated with the inclusion of gender provisions in comprehensive peace agreements. I theorize that widespread conflict-related sexual violence can increase the political and normative salience of gendered harms, creating domestic and international legitimacy pressures for negotiators to address these issues during peace processes. The project uses cross-national data on conflict-related sexual violence, peace agreements, conflict intensity, and political institutions.
+</details>
+:::
 
-The project uses cross-national data on conflict-related sexual violence, peace agreements, conflict intensity, and political institutions.
-
-**Keywords:** wartime sexual violence · peace agreements · political violence · gender and conflict · post-conflict institutions
-
----
+::: {.paper #hatecrime}
+[Working Paper]{.tag}
 
 ### Government Actions, Social Hostility, and Anti-Religion Hate Crime: An Examination of Emboldenment in Anti-Religion Hate Crime Offending
 
-**With Matthew Vanden Bosch**
+[with Matthew Vanden Bosch]{.coauthors}
 
+<details>
+<summary>Abstract</summary>
 This project investigates whether government actions and broader patterns of social hostility are associated with anti-religion hate crime. The study considers whether political and social environments can embolden discriminatory or violent behavior toward religious groups.
-
-**Keywords:** political violence · hate crime · religion · social hostility · political behavior
-
----
+</details>
+:::
 
 ## Works in Progress
 
+::: {.paper}
+[Work in Progress]{.tag .tag-muted}
+
 ### Examining the Effectiveness of the Dictator's Digital Toolkit: Misinformation and Censorship's Impact on Social Media Users' Trust in Government in Non-Democracies
 
-**With Matthew Placek**
+[with Matthew Placek]{.coauthors}
 
+<details>
+<summary>Abstract</summary>
 This project examines the relationship between government control of social networking sites and political trust in authoritarian regimes. We investigate whether misinformation, censorship, and other restrictions on digital communication and information environments are associated with citizens' trust in government across non-democratic political systems.
+</details>
+:::
 
-**Keywords:** authoritarianism · social media · political trust · political communication · comparative politics
-
----
+::: {.paper}
+[Work in Progress]{.tag .tag-muted}
 
 ### Women, Life, Freedom: The Iranian Women's Social Movement
 
-**With Houman Sadri**
+[with Houman Sadri]{.coauthors}
 
+<details>
+<summary>Abstract</summary>
 This project examines the Women, Life, Freedom movement in Iran and its implications for gender, political mobilization, and contentious politics.
+</details>
+:::
 
-**Keywords:** social movements · gender · Iran · contentious politics · authoritarianism
-
----
+::: {.paper}
+[Work in Progress]{.tag .tag-muted}
 
 ### Elite Cues Across Foreign Policy: A Topic Sampling Approach
 
-**With Grady Anderson**
+[with Grady Anderson]{.coauthors}
 
+<details>
+<summary>Abstract</summary>
 This project examines how elite cues shape public opinion across different domains of foreign policy. Using a topic-sampling framework, the project considers whether the influence of political elites varies across foreign policy issues rather than assuming that cue-taking operates uniformly across issue areas.
+</details>
+:::
 
-**Keywords:** foreign policy · public opinion · elite cues · political behavior · international relations
+## Conference Presentations
 
----
+::: {.rows}
+[International Studies Association Annual Convention, Atlanta, GA *(accepted)*]{.row-main}[2027]{.row-date}
 
-## Selected Conference Presentations
+[Southern Political Science Association Annual Meeting, St. Petersburg, FL *(accepted)*]{.row-main}[2027]{.row-date}
 
-- International Studies Association Annual Convention, Atlanta, Georgia, 2027 (accepted)
-- Southern Political Science Association Annual Conference, Saint Pete, FL, 2027 (accepted) 
-- Carolinas Conflict Consortium, Atlanta, Georgia, 2026
-- Southern Political Science Association Annual Conference, Virtual, 2026
-- Florida Political Science Association Annual Conference, Saint Leo, Florida, 2026
+[Carolinas Conflict Consortium, Atlanta, GA]{.row-main}[2026]{.row-date}
 
----
+[Southern Political Science Association Annual Meeting, Virtual]{.row-main}[2026]{.row-date}
 
-## Methods
-
-My research primarily uses quantitative methods, including regression analysis, logistic regression, fixed effects models, panel data analysis, multiple imputation, and quantitative conflict analysis. I primarily work in R and also use SPSS, LaTeX, and Quarto.
-
----
-
-<div class="research-footer">
-
-For additional information, please see my [Curriculum Vitae](cv.qmd).
-
-</div>
-
-</div>
+[Florida Political Science Association Annual Meeting, Saint Leo, FL]{.row-main}[2026]{.row-date}
+:::

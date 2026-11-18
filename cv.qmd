@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-page-layout: full
+page-layout: article
 ---
 
 <div class="cv-page">

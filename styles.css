@@ -1,138 +1,305 @@
-/* ---------- Base (carried over from the old site) ---------- */
+/* =========================================================
+   Rachel Marriott — site styles
+   Serif headings (Source Serif 4), clean sans body (Inter),
+   FSU garnet used as an accent only.
+   ========================================================= */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&display=swap");
+
 :root {
-  --fsu-garnet: #782F40;
-  --fsu-gold: #CEB888;
+  --garnet: #782F40;
+  --garnet-dark: #5e2432;
+  --garnet-tint: #f6eef0;
+  --ink: #1f2328;
+  --muted: #5f6670;
+  --line: #e6e3e1;
+  --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --sans: "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
 body {
+  font-family: var(--sans);
+  font-size: 1.02rem;
   line-height: 1.7;
-  color: #333;
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+main.content {
+  max-width: 780px;
+}
+
+h1, h2, h3, .title {
+  font-family: var(--serif);
+  color: var(--ink);
+  letter-spacing: -0.01em;
+}
+
+h1.title {
+  font-weight: 700;
+  font-size: 2.4rem;
+  margin-top: 1.5rem;
 }
 
 h2 {
-  font-weight: 500;
-  color: #222;
-  margin-top: 2rem;
+  font-weight: 600;
+  font-size: 1.45rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--line);
 }
 
 h3 {
-  font-weight: 500;
+  font-weight: 600;
+  font-size: 1.15rem;
+  line-height: 1.4;
 }
 
 a {
-  color: var(--fsu-garnet);
+  color: var(--garnet);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 
-hr {
-  margin: 2.5rem 0;
-  opacity: 0.15;
+a:hover { color: var(--garnet-dark); }
+
+/* ---------- Navbar ---------- */
+.navbar {
+  border-bottom: 1px solid var(--line);
+  background: #fff !important;
 }
 
-/* ---------- Banner (FSU campus image behind the page title) ---------- */
-.quarto-title-banner {
-  background-size: cover;
-  background-position: center center;
-  min-height: 160px;
+.navbar-title {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: var(--ink) !important;
 }
 
-.quarto-title-banner .quarto-title .title,
-.quarto-title-banner .subtitle {
-  color: #fff;
-  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.55);
+.navbar .nav-link {
+  font-weight: 500;
+  color: var(--muted) !important;
 }
 
-/* ---------- Buttons in FSU garnet ---------- */
+.navbar .nav-link.active,
+.navbar .nav-link:hover {
+  color: var(--garnet) !important;
+}
+
+/* ---------- Buttons ---------- */
+.btn {
+  font-weight: 500;
+  border-radius: 6px;
+  padding: 0.4rem 1rem;
+  margin: 0 0.4rem 0.5rem 0;
+}
+
 .btn-primary {
-  background-color: var(--fsu-garnet);
-  border-color: var(--fsu-garnet);
+  background-color: var(--garnet);
+  border-color: var(--garnet);
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #5e2432;
-  border-color: #5e2432;
+  background-color: var(--garnet-dark);
+  border-color: var(--garnet-dark);
 }
 
 .btn-outline-primary {
-  color: var(--fsu-garnet);
-  border-color: var(--fsu-garnet);
+  color: var(--garnet);
+  border-color: #d9c4c9;
 }
 
 .btn-outline-primary:hover,
 .btn-outline-primary:focus {
-  background-color: var(--fsu-garnet);
-  border-color: var(--fsu-garnet);
+  background-color: var(--garnet);
+  border-color: var(--garnet);
   color: #fff;
 }
 
-/* ---------- Home page hero ---------- */
+/* ---------- Home: hero ---------- */
 .hero {
   display: flex;
-  align-items: flex-start;
-  gap: 3rem;
-  margin-top: 1rem;
+  align-items: center;
+  gap: 2.75rem;
+  margin: 2.5rem 0 1rem;
 }
 
-.hero-text {
-  flex: 1;
-}
+.hero-image { flex-shrink: 0; }
 
-.hero-text h3 {
-  margin: 0;
-  font-size: 1.25rem;
-  color: #555;
-}
-
-.hero-text p {
-  font-size: 1.1rem;
-  margin-top: 1.25rem;
-}
-
-.hero-links p {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.6rem;
-  margin-top: 1.5rem;
-}
-
-.hero-image {
-  flex-shrink: 0;
-}
+.hero-image p { margin: 0; }
 
 .hero-image img {
-  width: 220px;
-  height: 275px;
+  width: 210px;
+  height: 262px;
   object-fit: cover;
-  object-position: center;
-  border-radius: 6px;
+  border-radius: 10px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
 }
 
-.interests {
-  color: #555;
-  font-size: 1.1rem;
+.hero-text { flex: 1; }
+
+.hero-text p.hero-name {
+  font-family: var(--serif);
+  line-height: 1.15;
+  font-size: 2.6rem;
+  font-weight: 700;
+  margin: 0 0 0.35rem;
+  border: none;
+  padding: 0;
 }
 
-@media (max-width: 700px) {
+.hero-role {
+  display: block;
+  color: var(--muted);
+  font-size: 1.05rem;
+  line-height: 1.5;
+  margin-bottom: 1.1rem;
+}
+
+.hero-text p { font-size: 1.05rem; }
+
+@media (max-width: 720px) {
   .hero {
-    flex-direction: column-reverse;
+    flex-direction: column;
+    align-items: flex-start;
     gap: 1.5rem;
   }
+  .hero-image img { width: 160px; height: 200px; }
+  .hero-text p.hero-name { font-size: 2.1rem; }
+}
 
-  .hero-image img {
-    width: 180px;
-    height: 225px;
-  }
+/* ---------- Chips (research areas) ---------- */
+.chips p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.chip {
+  background: var(--garnet-tint);
+  color: var(--garnet-dark);
+  border-radius: 999px;
+  padding: 0.25rem 0.85rem;
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+
+/* ---------- Home: current research list ---------- */
+.mini-list p {
+  margin: 0 0 0.9rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--garnet-tint);
+}
+
+.mini-list a {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.mini-list a:hover { color: var(--garnet); }
+
+.mini-meta {
+  display: block;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.more-link {
+  font-weight: 500;
+  text-decoration: none;
 }
 
 /* ---------- Research page ---------- */
-.research-page h3 {
-  font-size: 1.2rem;
-  margin-top: 1.5rem;
+.lead p {
+  font-size: 1.08rem;
+  color: #3a4048;
 }
 
-.research-footer {
-  color: #666;
-  font-style: italic;
+.paper {
+  padding: 1.25rem 0 1.1rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.paper:last-of-type { border-bottom: none; }
+
+.paper h3 {
+  margin: 0.4rem 0 0.25rem;
+  scroll-margin-top: 90px;
+}
+
+.paper p { margin-bottom: 0.3rem; }
+
+.tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--garnet);
+  background: var(--garnet-tint);
+  border-radius: 4px;
+  padding: 0.12rem 0.5rem;
+}
+
+.tag-muted {
+  color: var(--muted);
+  background: #f1f2f4;
+}
+
+.coauthors {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+details { margin-top: 0.35rem; }
+
+details summary {
+  cursor: pointer;
+  color: var(--garnet);
+  font-weight: 500;
+  font-size: 0.92rem;
+  list-style: none;
+}
+
+details summary::-webkit-details-marker { display: none; }
+details summary::before { content: "+ "; }
+details[open] summary::before { content: "− "; }
+
+details[open] {
+  color: #3a4048;
+  font-size: 0.97rem;
+}
+
+details[open] summary { margin-bottom: 0.4rem; }
+
+/* ---------- Two-column rows (presentations, teaching) ---------- */
+.rows p {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.rows p:last-child { border-bottom: none; }
+
+.row-date {
+  color: var(--muted);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.section-note {
+  display: block;
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: -0.5rem 0 0.5rem;
 }
 
 /* ---------- CV page ---------- */
@@ -141,11 +308,13 @@ hr {
   align-items: center;
   flex-wrap: wrap;
   gap: 1rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.25rem;
 }
 
+.cv-header p { margin: 0; }
+
 .cv-updated {
-  color: #777;
+  color: var(--muted);
   font-size: 0.95rem;
 }
 
@@ -153,29 +322,22 @@ hr {
   width: 100%;
   height: 85vh;
   min-height: 700px;
-  border: 1px solid #ddd;
-  border-radius: 6px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
 }
 
 .cv-fallback {
-  color: #777;
+  color: var(--muted);
   font-size: 0.9rem;
   margin-top: 0.5rem;
 }
 
-/* ---------- Contact page ---------- */
-.contact-details {
-  color: #555;
-  font-size: 1.1rem;
+/* ---------- Footer ---------- */
+.nav-footer {
+  border-top: 1px solid var(--line);
+  font-size: 0.88rem;
+  color: var(--muted);
 }
 
-.contact-details strong {
-  color: #333;
-  font-weight: 500;
-}
-
-/* ---------- Navbar active link in garnet ---------- */
-.navbar .nav-link.active,
-.navbar .nav-link:hover {
-  color: var(--fsu-garnet) !important;
-}
+.nav-footer a { color: var(--muted); }
+.nav-footer a:hover { color: var(--garnet); }

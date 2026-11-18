@@ -1,18 +1,30 @@
 ---
 title: "Teaching"
+page-layout: article
 ---
-
-<!-- One line per course. To link a syllabus, put the PDF in this folder and
-     write [Syllabus](inr1002-syllabus.pdf); Quarto copies linked files into docs/. -->
 
 ## Instructor of Record
 
-**INR 1002: Introduction to International Relations**, Florida State University, Summer 2027 (scheduled)
+[Florida State University]{.section-note}
+
+::: {.rows}
+[**INR 1002:** Introduction to International Relations *(scheduled)*]{.row-main}[Summer 2027]{.row-date}
+:::
 
 ## Teaching Assistant
 
-**INR 3933: Insurgency, Civil War, and Terrorism**, Florida State University, Spring 2026
+[Florida State University]{.section-note}
 
-**CPO 2002: Introduction to Comparative Politics**, Florida State University, Fall 2025; Spring 2026
+::: {.rows}
+[**INR 3933:** Insurgency, Civil War, and Terrorism]{.row-main}[Spring 2026]{.row-date}
 
-**PUP 3002: Introduction to Public Policy**, Florida State University, Fall 2025
+[**CPO 2002:** Introduction to Comparative Politics]{.row-main}[Fall 2025, Spring 2026]{.row-date}
+
+[**PUP 3002:** Introduction to Public Policy]{.row-main}[Fall 2025]{.row-date}
+:::
+
+## Mentoring
+
+::: {.rows}
+[**Research Mentor**, Undergraduate Research Opportunity Program, FSU]{.row-main}[2026–]{.row-date}
+:::
