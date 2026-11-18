@@ -28,7 +28,7 @@ I study political violence and its consequences for individuals, institutions, a
 
 ## About
 
-My current work examines how wartime sexual violence shapes peace agreement design, when women's representation in peace negotiations translates into gender provisions, and how survivors navigate disclosure, reporting, and help-seeking after conflict-related sexual violence. I use quantitative methods and cross-national data, working primarily in R.
+My current work examines how wartime sexual violence shapes peace agreement design and when women's representation in peace negotiations translates into gender provisions. I use quantitative methods and cross-national data, working primarily in R.
 
 I also collaborate on projects on authoritarian information control, elite cues in foreign policy opinion, and anti-religion hate crime.
 
