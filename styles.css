@@ -137,7 +137,30 @@ hr {
 
 /* ---------- CV page ---------- */
 .cv-header {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
   margin-bottom: 1.5rem;
+}
+
+.cv-updated {
+  color: #777;
+  font-size: 0.95rem;
+}
+
+.cv-embed iframe {
+  width: 100%;
+  height: 85vh;
+  min-height: 700px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+.cv-fallback {
+  color: #777;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
 }
 
 /* ---------- Contact page ---------- */
